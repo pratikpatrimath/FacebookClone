@@ -40,5 +40,5 @@ Creating a Facebook clone app involves replicating the core features and functio
 <p float="left">
   <img src="https://github.com/pratikpatrimath/FacebookClone/assets/75774769/dab843e2-22a5-4200-af90-5d4cdb7b2aac" width="33%" />
   <img src="https://github.com/pratikpatrimath/FacebookClone/assets/75774769/80eebdc1-c086-4725-bfa9-f0cc1349e5ed" width="33%" />
-  <img src="(https://github.com/pratikpatrimath/FacebookClone/assets/75774769/0662151c-1c65-4729-b0cb-fadae2f1cde6" width="33%" />
+  <img src="https://github.com/pratikpatrimath/FacebookClone/assets/75774769/0662151c-1c65-4729-b0cb-fadae2f1cde6" width="33%" />
 </p>
